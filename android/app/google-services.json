@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "294205443148",
+    "project_id": "flutter-local-notificati-a40e3",
+    "storage_bucket": "flutter-local-notificati-a40e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294205443148:android:462f8f7c28b45a3f8478e9",
+        "android_client_info": {
+          "package_name": "com.jinalpatel.flutterlocalnotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPUl1KbtXMstBc6fIAv_OD_AINGm9dGuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
